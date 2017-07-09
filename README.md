@@ -1,2 +1,4 @@
 # Web_Blog
-Used Technologies : JSF, PrimeFace, Hibernate, MYSQL. IDE:  NetBeans.
+<b>Used Technologies :</b> JSF, PrimeFace, Hibernate, MYSQL</br>
+<b>Server:</b> Tomcat</br>
+<b>IDE:</b>  NetBeans.
